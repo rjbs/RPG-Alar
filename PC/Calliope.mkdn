@@ -1,4 +1,3 @@
-
 ## In Brief
 
 Calliope is a level one Thief, played by Frew.
@@ -9,7 +8,6 @@ Calliope is a level one Thief, played by Frew.
 
 ### Usual Kit
 
-* Nexan dagger (magic)
 * Sling
 * Staff
 * Flint
