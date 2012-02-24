@@ -15,11 +15,10 @@ Ayla is a level one Sorceress, played by Abigail.
 * Flint & Tinder
 * Flask of Oil
 * Waterskin
-* Scroll case
-* Scroll
 
 ### Kept at Home
 
 * Bedroll
 * Rope (30ft)
-
+* Scroll case
+* Scroll
