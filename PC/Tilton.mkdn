@@ -3,6 +3,8 @@
 
 Tilton is a level one Priest of Olixitus, played by Nick.
 
+    Citizen:  Yes
+
 ## Inventory
 
 **Coin**: 2 gc, xyz sp
