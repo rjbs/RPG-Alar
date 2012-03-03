@@ -6,12 +6,13 @@ Calliope is a level one Thief, played by Frew.
 
 ## Inventory
 
-**Coin**: 1 gc, 91 sp
+**Coin**: 1 gc, 76 sp
 
 ### Usual Kit
 
 * Sling
 * Staff
+* Dagger
 * Flint
 * Oil
 * Torch
