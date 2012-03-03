@@ -24,3 +24,6 @@ Ayla is a level one Sorceress, played by Abigail.
 * Rope (30ft)
 * Scroll case
 * Scroll
+
+* Silver whistle
+* Ivory card
