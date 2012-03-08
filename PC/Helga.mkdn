@@ -7,7 +7,7 @@ Helga is a level one Amazon, played by Nick.
 
 ## Inventory
 
-**Coin**: 2 gc, xyz sp
+**Coin**: 2 gc, 12 sp
 
 * ??
 
