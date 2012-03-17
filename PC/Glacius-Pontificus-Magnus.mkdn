@@ -1,0 +1,39 @@
+## In Brief
+
+Magnus is a 23 year old, level one Elemental, played by Frew.
+
+    Citizen:  no
+
+## Stats
+
+ * Might: 11 (0)
+ * Skill: 9 (0)
+ * Wits: 16 (+2)
+ * Luck: 12 (0)
+ * Will: 18 (+3)
+ * Grace: 8 (-1)
+
+## Combat Modifiers
+
+ * Melee: 0
+ * Missile: 2
+ * Init: 12
+ * EDC: 12
+ * Total Hits: 8
+
+## Saves
+
+ * Athletic Prowess: 0
+ * Danger Evasion: 5
+ * Mystic Fortitude: 3
+ * Physical Vigor: 3
+
+## Magic:
+
+ * Elemental Magic: Fire, Water
+ * Elemental Mastery: 5
+ * Mystic Strength: 17
+ * Starting Power: 7
+
+## Inventory
+
