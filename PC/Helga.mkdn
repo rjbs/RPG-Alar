@@ -3,11 +3,22 @@
 
 Helga is a level one Amazon, played by Nick.
 
-    Citizen:  ?
+    Citizen:  No
 
 ## Inventory
 
 **Coin**: 2 gc, 12 sp
 
-* ??
+### Usual Kit
 
+* Cloak
+* Dagger
+* Flint & Tinder
+* Flask of Oil
+* Waterskin
+* Bow
+* Arrows
+
+### Unknown Items
+* Bracers
+* Domino Mask
