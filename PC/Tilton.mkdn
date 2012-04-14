@@ -1,3 +1,28 @@
+Might               12
+Skill               12
+Wits                12
+Luck                14
+Will                18
+Grace               12
+
+Athletic Prowess    1
+Danger Evasion      1
+Mystic Fortitude    4
+Physical Vigor      4
+Personal Charisma   4
+
+Melee               1
+Missle              1
+Initiative          10
+Hits                8
+
+Base Defense        13
+
+Spiritual Aura      4
+Mystic Strength     16
+
+Power Points        7
+
 
 ## In Brief
 
