@@ -17,3 +17,22 @@ never marry.  They must pay a fifth of their earnings to the temple,
 but pay no other taxes.  Priests of Olixitus can be easily identified
 by the tattoos they wear on their face, marking them as permanent
 assets of the order.
+
+## Divine Blessing
+
+The "Divine Blessing" power available to Priests lets them provide a +2 bonus
+to one of several traits, depending on their deity, for several hours.
+
+For Olixitus, the traits that Tilton can choose from are:
+
+* Danger Evasion
+* Mystic Fortitude
+* Personal Charisma
+
+## Divine Gift
+
+The "Divine Gift" is something like a ramped up Divine Blessing.  It does only
+one thing, but does it much more powerfully.  Invoking Olixitus's Divine Gift
+grants the gift of Presence: The character automatically succeeds at all Mystic
+Fortitude and Personal Charisma rolls.
+
