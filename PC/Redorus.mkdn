@@ -7,7 +7,7 @@ Redorus is a level one Spearman, played by Abigail.
 
 ## Inventory
 
-**Coin**: 2 gc, 89 sp
+**Coin**: 2 gc, 104 sp
 
 ### Usual Kit
 
@@ -19,6 +19,9 @@ Redorus is a level one Spearman, played by Abigail.
 * Waterskin
 * Keyring
 * Cheap Hat
+* Sword (from thug south of city; currently on Redorus)
+* Dagger (from thug south of city; currently on Redorus)
+* Wineskin (from thug south of city; currently on Redorus)
 
 ### Kept at Home
 
