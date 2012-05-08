@@ -2,6 +2,7 @@
 
 Calliope is a level one Thief, played by Frew.
 
+    XP: 175
     Citizen:  ?
 
 ## Inventory

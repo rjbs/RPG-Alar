@@ -3,6 +3,7 @@
 
 Ignatius is a level one Hunter, played by Frew.
 
+    XP: 175
     Citizen:  Yes
 
 ## Inventory

@@ -1,28 +1,32 @@
-Might               13
-Skill               15
-Wits                11
-Luck                10
-Will                13
-Grace               13
-
-Athletic Prowess    3
-Danger Evasion      1
-Mystic Fortitude    2
-Physical Vigor      2
-Personal Charisma   2
-
-Melee               3
-Missle              2
-Initiative          12
-Hits                3
-
-Base Defense        12
 
 ## In Brief
 
 Helga is a level one Amazon, played by Nick.
 
+    XP: 167
     Citizen:  No
+
+## Stats
+
+    Might               13
+    Skill               15
+    Wits                11
+    Luck                10
+    Will                13
+    Grace               13
+
+    Athletic Prowess    3
+    Danger Evasion      1
+    Mystic Fortitude    2
+    Physical Vigor      2
+    Personal Charisma   2
+
+    Melee               3
+    Missle              2
+    Initiative          12
+    Hits                3
+
+    Base Defense        12
 
 ## Inventory
 
