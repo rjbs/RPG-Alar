@@ -8,7 +8,7 @@ Redorus is a level one Spearman, played by Abigail.
 
 ## Inventory
 
-**Coin**: 2 gc, 104 sp
+**Coin**: 2 gc, 107 sp
 
 ### Usual Kit
 
