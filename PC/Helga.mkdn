@@ -3,7 +3,7 @@
 
 Helga is a level one Amazon, played by Nick.
 
-    XP: 167
+    XP: 197
     Citizen:  No
 
 ## Stats
