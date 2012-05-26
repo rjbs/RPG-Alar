@@ -35,7 +35,7 @@ Tilton is a level one Priest of Olixitus, played by Nick.
 
 ## Inventory
 
-**Coin**: 2 gc, 12 sp
+**Coin**: 7 gc, 52 sp, 35 vp, 4 gems
 
 ### Usual Kit
 
@@ -50,6 +50,8 @@ Tilton is a level one Priest of Olixitus, played by Nick.
 
 * Bedroll
 * Rope (30ft)
+* Bow
+* Quiver, 20 arows
 
 ### Unknown Items
 * Wooden box with four grey glyphed stones
