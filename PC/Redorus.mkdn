@@ -8,7 +8,7 @@ Redorus is a level one Spearman, played by Abigail.
 
 ## Inventory
 
-**Coin**: 6 gc, 211 sp, 54 copper
+**Coin**: 11 gc, 211 sp, 54 copper
           84 pesos,
            3 gems,
 
@@ -30,10 +30,15 @@ Redorus is a level one Spearman, played by Abigail.
 * Purse
 * Scroll, vellum. Written in casteen. Incantation of boundless power.
 * Art - silver seal stamp; inset with a few gems (Enchanted)
-* Stone carving of the Lion of Agia
+     Felix: Well made. Seen more before. Allows to cleanly remove, and
+            reattach seals. More commonly seen in the inner province.
+* Stone carving of the Lion of Agia (Mundane (Felix))
 * Weird black statuette (Something strange; emits high pitched noise)
-* Etched, bejeweled sword
-* Torc (neck ring); bronze
+     Felix: Unusual. Cannot tell much. No signs it's constructed with
+            any known sciences. Does not confirm to any known shape.
+            Shapes of shadows unexpected. No information who make it;
+            nor how it was made. No much value?
+* Torc (neck ring); bronze (Mundane (Felix))
 
 ### Kept at Home
 
