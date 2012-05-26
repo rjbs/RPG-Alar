@@ -1,4 +1,3 @@
-
 ## In Brief
 
 Ayla is a level one Sorceress, played by Abigail.
@@ -8,7 +7,7 @@ Ayla is a level one Sorceress, played by Abigail.
 
 ## Inventory
 
-**Coin**: 4 gc, 64 sp
+**Coin**: 8 gc, 147 sp
 
 ### Usual Kit
 
