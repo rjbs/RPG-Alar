@@ -36,7 +36,7 @@ Tilton's boss is Brulex (Agion Arbius Brulex)
 
 ## Inventory
 
-**Coin**: 7 gc, 52 sp, 35 vp, 4 gems
+**Coin**: 7 gc, 32 sp, 35 vp, 4 gems
 
 ### Usual Kit
 
@@ -44,7 +44,8 @@ Tilton's boss is Brulex (Agion Arbius Brulex)
 * Staff
 * Dagger
 * Flint & Tinder
-* Flask of Oil
+* Lantern
+* 2 flasks of Oil
 * Waterskin
 
 ### Kept at Home

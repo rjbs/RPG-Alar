@@ -7,7 +7,7 @@ Ayla is a level one Sorceress, played by Abigail.
 
 ## Inventory
 
-**Coin**: 14 gc, 139 sp
+**Coin**: 14 gc, 124 sp
 
 ### Usual Kit
 
@@ -15,7 +15,8 @@ Ayla is a level one Sorceress, played by Abigail.
 * Staff
 * Dagger
 * Flint & Tinder
-* Flask of Oil
+* 2 Flasks of Oil
+* Lantern
 * Waterskin
 * Bow + Quiver
 * Arrows (20)
