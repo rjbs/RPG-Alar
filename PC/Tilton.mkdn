@@ -51,7 +51,7 @@ Tilton is a level one Priest of Olixitus, played by Nick.
 * Bedroll
 * Rope (30ft)
 * Bow
-* Quiver, 20 arows
+* Quiver, 20 arrows
 
 ### Unknown Items
 * Wooden box with four grey glyphed stones
