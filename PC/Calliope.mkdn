@@ -1,18 +1,18 @@
 ## In Brief
 
-Calliope is a level one Thief, played by Frew.
+Calliope is a level one, Female, 29 year old Thief, played by Frew.
 
     XP: 205
     Citizen:  ?
 
-## Stats (Totally Bogus)
+## Stats
 
-    Might               +0
-    Skill               +1
-    Wits                +3
-    Luck                +3
-    Will                +0
-    Grace               +2
+    Might   13  +1
+    Skill   13  +1
+    Wits    15  +2
+    Luck    15  +2
+    Will    13  +1
+    Grace   11   0
 
 ## Inventory
 

@@ -1,19 +1,19 @@
 
 ## In Brief
 
-Ignatius is a level one Hunter, played by Frew.
+Ignatius is a level one, Male, 26 year old Hunter, played by Frew.
 
     XP: 205
     Citizen:  Yes
 
-## Stats (Totally Bogus)
+## Stats
 
-    Might               +2
-    Skill               +2
-    Wits                +2
-    Luck                +2
-    Will                +2
-    Grace               +0
+    Might   14 +1
+    Skill   17 +3
+    Wits    16 +2
+    Luck    10  0
+    Will    10  0
+    Grace   15 +2
 
 
 ## Inventory
