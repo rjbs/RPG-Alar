@@ -16,7 +16,7 @@ Calliope is a level one, Female, 29 year old Thief, played by Frew.
 
 ## Inventory
 
-**Coin**: 11 gc, 210 sp, 18 vp
+**Coin**: 11 gc, 209 sp, 18 vp
 
 ### Usual Kit
 
