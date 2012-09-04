@@ -4,7 +4,7 @@
 Tilton is a level one Priest of Olixitus, played by Breno.
 Tilton's boss is Brulex (Agion Arbius Brulex)
 
-    XP: 167
+    XP: 291
     Citizen:  Yes
 
 ## Stats

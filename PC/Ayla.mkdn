@@ -2,7 +2,7 @@
 
 Ayla is a level one Sorceress, played by Abigail.
 
-    XP: 205
+    XP: 318
     Citizen:  ?
 
 ## Inventory

@@ -3,7 +3,7 @@
 
 Redorus is a level one Spearman, played by Abigail.
 
-    XP: 195
+    XP: 321
     Citizen:  Yes
 
 ## Inventory
